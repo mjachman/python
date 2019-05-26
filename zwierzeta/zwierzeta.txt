@@ -1,0 +1,6 @@
+Kot perski,Mruczek,2016,rudy biały czarny,whiskas ryby,drapie
+Pies bernardyn,Pimpek,2015,długowłosy,100dB,ślini się
+Kot syjamski,Rufus,2017,szary biały,myszy,
+Kot brytyjski,Harry,2012,szary czarny,wąróbka kawior fasolka,wchodzi na drzewa i nie chce zejść
+Pies owczarek niemiecki,Fafik,2016,średniowłosy,85dB
+Pies jamnik,Warkot,2013,krótkowłosy,150dB,gryzie
